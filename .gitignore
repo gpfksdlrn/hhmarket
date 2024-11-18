@@ -234,3 +234,5 @@ gradle-app.setting
 /data/
 /.settings/org.eclipse.buildship.core.prefs
 *.exe
+src/main/resources/application.yml
+src/main/resources/application-dev.yml
