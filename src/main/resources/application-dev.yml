@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:mariadb://112.171.61.233:3306/hhmarket?characterEncoding=UTF-8&useTimezone=false
+    username: admin
+    password: WkaQhdqkq@!)165
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
